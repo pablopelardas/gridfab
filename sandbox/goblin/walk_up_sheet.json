@@ -4,7 +4,7 @@
     "h": 128
   },
   "animations": {
-    "walk": {
+    "walk_up": {
       "frames": [
         {
           "x": 0,
@@ -38,5 +38,5 @@
       "loop": true
     }
   },
-  "sprite": "walk"
+  "sprite": "walk_up"
 }

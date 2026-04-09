@@ -1,0 +1,28 @@
+{
+  "frame_size": {
+    "w": 128,
+    "h": 128
+  },
+  "animations": {
+    "idle_down": {
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 128,
+          "h": 128,
+          "duration": 333
+        },
+        {
+          "x": 128,
+          "y": 0,
+          "w": 128,
+          "h": 128,
+          "duration": 333
+        }
+      ],
+      "loop": true
+    }
+  },
+  "sprite": "idle_down"
+}

@@ -4,17 +4,10 @@
     "h": 128
   },
   "animations": {
-    "idle": {
+    "idle_up": {
       "frames": [
         {
           "x": 0,
-          "y": 0,
-          "w": 128,
-          "h": 128,
-          "duration": 333
-        },
-        {
-          "x": 128,
           "y": 0,
           "w": 128,
           "h": 128,
@@ -24,5 +17,5 @@
       "loop": true
     }
   },
-  "sprite": "idle"
+  "sprite": "idle_up"
 }
