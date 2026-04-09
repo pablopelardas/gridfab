@@ -12,3 +12,5 @@ WH=#f0e8c8
 # Leather loincloth
 LB=#6b4423
 DB=#3a2410
+# Wood (club)
+WD=#7a4a1a
