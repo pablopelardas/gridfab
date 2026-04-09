@@ -1,0 +1,35 @@
+{
+  "frame_size": {
+    "w": 128,
+    "h": 128
+  },
+  "animations": {
+    "attack": {
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 128,
+          "h": 128,
+          "duration": 125
+        },
+        {
+          "x": 128,
+          "y": 0,
+          "w": 128,
+          "h": 128,
+          "duration": 125
+        },
+        {
+          "x": 256,
+          "y": 0,
+          "w": 128,
+          "h": 128,
+          "duration": 125
+        }
+      ],
+      "loop": false
+    }
+  },
+  "sprite": "attack"
+}
