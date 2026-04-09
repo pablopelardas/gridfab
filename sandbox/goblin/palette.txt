@@ -1,0 +1,14 @@
+# Goblin palette — classic green skin, leather, dirty feet
+# Outline and skin
+OL=#0d1a0d
+DG=#2e4a2e
+MG=#5a8a3a
+LG=#8ccd5c
+# Eyes
+EY=#f5d442
+PP=#1a0a0a
+# Teeth/fangs
+WH=#f0e8c8
+# Leather loincloth
+LB=#6b4423
+DB=#3a2410
